@@ -25,7 +25,7 @@ elif [ $version == "16.04" ]
 then
 	echo "deb https://apt.dockerproject.org/repo ubuntu-xenial main" | sudo tee /etc/apt/sources.list.d/docker.list
 else 
-	echo "script dont support your ubuntu version :'("
+	echo "script does not support your ubuntu version :'("
 	exit
 fi
 
