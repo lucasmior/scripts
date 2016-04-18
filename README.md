@@ -12,7 +12,7 @@ If you are using ubuntu-12.04, you need to execute the last 3 lines mannualy.
 This script will install rvm and ruby version=2.1.5 
 To use: 
 ```
-bash installRvm.sh
+sudo bash installRvm.sh
 ```
 If you want to use other ruby's version, change manually the script.
 If you dont want to install ruby, remove mannualy the parameter --ruby from script.
