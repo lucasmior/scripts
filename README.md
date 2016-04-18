@@ -15,4 +15,5 @@ To use:
 sudo bash installRvm.sh
 ```
 If you want to use other ruby's version, change manually the script.
+
 If you dont want to install ruby, remove mannualy the parameter --ruby from script.
