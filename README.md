@@ -17,3 +17,11 @@ sudo bash installRvm.sh
 If you want to use other ruby's version, change manually the script.
 
 If you dont want to install ruby, remove mannualy the parameter --ruby from script.
+
+## installSublime.sh
+This script will install sublime editor
+To use:
+```
+bash installSublime.sh
+```
+
