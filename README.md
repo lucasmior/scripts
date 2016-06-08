@@ -25,3 +25,10 @@ To use:
 bash installSublime.sh
 ```
 
+## branchColor.sh
+This script will show the branch name when you are into a git repository
+To use:
+```
+bash branchColor.sh
+```
+
