@@ -1,6 +1,12 @@
 # scripts
 This repository is to store some useful scripts
 
+## installChef.sh
+This script will install chefDK and chef-client
+To use:
+```
+sudo bash installChef.sh
+```
 ## installDocker.sh
 To use: 
 ```
