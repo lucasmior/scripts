@@ -1,12 +1,20 @@
 # scripts
 This repository is to store some useful scripts
 
+## installJava8.sh
+This script will install Java8
+To use:
+```
+sudo bash installJava8.sh
+```
+
 ## installChef.sh
 This script will install chefDK and chef-client
 To use:
 ```
 sudo bash installChef.sh
 ```
+
 ## installDocker.sh
 To use: 
 ```
